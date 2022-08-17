@@ -5,9 +5,8 @@ In the telecom industry, customers are able to choose from multiple service prov
 ## Table of Contents
 * Business Objectives
 * Structure of case study
-* Conclusions
 * Insights
-* Final Report
+* Conclusions
 * Technologies used
 * References
 * contact
